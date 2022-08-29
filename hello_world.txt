@@ -1,1 +1,2 @@
-this is just some text to be added as a test
+this is just some text to be added as a test.
+This is the next addition to the git_test 
